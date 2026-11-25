@@ -1,0 +1,17 @@
+[
+  {
+    "id": "nome-jogo-3",
+    "nome": "Nome do Jogo 3",
+    "loja": "Steam",
+    "ano": 2025,
+    "nota": 100,
+    "platina": true,
+    "capa": "nome-do-jogo.webp",
+    "banner": "nome-do-jogo.webp",
+    "lancamento": "2027",
+    "generos": [
+      "Gênero 1",
+      "Gênero 2"
+    ]
+  }
+]

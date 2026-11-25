@@ -1,0 +1,17 @@
+[
+    {
+        "id": "nome-jogo-2",
+        "nome": "Nome do Jogo 2",
+        "loja": "PlaStation",
+        "ano": 2025,
+        "nota": 100,
+        "platina": true,
+        "capa": "nome-do-jogo.webp",
+        "banner": "nome-do-jogo.webp",
+        "lancamento": "2027",
+        "generos": [
+            "Gênero 1",
+            "Gênero 2"
+        ]
+    }
+]
